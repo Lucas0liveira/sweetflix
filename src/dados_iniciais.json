@@ -1,0 +1,154 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pintura",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Vídeos relaxantes de pintura.",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Na chuva, Cidade, Faca de Paleta, Escova, Pintura a óleo, Indo para casa, Raspador Dusan",
+          "url": "https://www.youtube.com/watch?v=gERxTluDWgo"
+        },
+        {
+          "titulo": "Girl with a Pearl Earring / Study / Paint with me #01",
+          "url": "https://www.youtube.com/watch?v=2NNL6Vu5sac"
+        },
+        {
+          "titulo": "Gouache Painting Secrets",
+          "url": "https://www.youtube.com/watch?v=0I7DnrfskI0&t=2s"
+        },
+        {
+          "titulo": "Bob Ross - Island in the Wilderness (Season 29 Episode 1)",
+          "url": "https://www.youtube.com/watch?v=lLWEXRAnQd0"
+        },
+        {
+          "titulo": "City Beach Perth - Palette Knife | Brush Oil Painting - Ocean Coast Sea Dusan",
+          "url": "https://www.youtube.com/watch?v=zhwVlws44Cg"
+        },
+        {
+          "titulo": "Paint with me #02 🌻 Holbein acryla gouache",
+          "url": "https://www.youtube.com/watch?v=3cvJ8_Dz3gc"
+        },
+        {
+          "titulo": "Bob Boss - Montanha Mística (20ª Temporada Episódio 1)",
+          "url": "https://www.youtube.com/watch?v=VlucWfTUo1A"
+        },
+        {
+          "titulo": "Bob Ross - One Hour Special - The Grandeur of Summer",
+          "url": "https://www.youtube.com/watch?v=mT0RNrTDHkI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Culinária",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Culinária, especialmente sobremesas",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Chessecake de Vidro com Morangos",
+          "url": "https://www.youtube.com/watch?v=2utgqRCAIr4"
+        },
+        {
+          "titulo": "Torta de Chocolate Suprema!",
+          "url": "https://www.youtube.com/watch?v=7TcCIcE1hr8"
+        },
+        {
+          "titulo": "Bolinhos de Baunilha",
+          "url": "https://www.youtube.com/watch?v=s6dhbtwDnek"
+        },
+        {
+          "titulo": "Bolinhos de Mate",
+          "url": "https://www.youtube.com/watch?v=HGAbnbb7GBA"
+        }, 
+        {
+          "titulo": "Pudim de Creme",
+          "url": "https://www.youtube.com/watch?v=U-JCF9BRgkE"
+        }
+      ]
+    },
+    {
+      "titulo": "Restauração",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Nda é mais trnaquilizante que assistir algo voltar a sua forma original",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Antique Kitchen Scale Restoration - The Masterpiece",
+          "url": "https://www.youtube.com/watch?v=JXohCvh2omI"
+        },
+        {
+          "titulo": "A Restauração de Mãe Maria Narrada",
+          "url": "https://www.youtube.com/watch?v=ON7mhkSwTIk"
+        },
+        {
+          "titulo": "Iconic French Wonder Lamp - Restoration",
+          "url": "https://www.youtube.com/watch?v=R2M83iah9fo"
+        },
+        {
+          "titulo": "A Conservação de O Assassinato de Arquimedes",
+          "url": "https://www.youtube.com/watch?v=v1Mjc4zNfY4"
+        }
+      ]
+    },
+    {
+      "titulo": "Ciência",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "What Was the Ancestor of Everything?",
+          "url": "https://www.youtube.com/watch?v=pk213XSSktQ"
+        },
+        {
+          "titulo": "O que é inteligência? Onde ela começa?",
+          "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
+        },
+        {
+          "titulo": "From the Cambrian Explosion to the Great Dying",
+          "url": "https://www.youtube.com/watch?v=RDQa0okkpf0"
+        },
+        {
+          "titulo": "Como construir uma esfera de Dyson - A mega estrutura final",
+          "url": "https://www.youtube.com/watch?v=pP44EPBMb8A"
+        }
+      ]
+    },
+    {
+      "titulo": "Música",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Platina Jazz - The Real Folk Blues (from Cowboy Bebop)",
+          "url": "https://www.youtube.com/watch?v=VRyzod7bNLQ&list=RDVRyzod7bNLQ&start_radio=1"
+        },
+        {
+          "titulo": "lofi hip hop - brazil songs playlist",
+          "url": "https://www.youtube.com/watch?v=ZhstyJSNKME&t=289s"
+        },
+        {
+          "titulo": "coffee shop radio // 24/7 lofi hip-hop beats",
+          "url": "https://www.youtube.com/watch?v=-5KAN9_CzSA"
+        },
+        {
+          "titulo": "lofi hip hop radio - beats to relax/study to",
+          "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+        },
+        {
+          "titulo": "Platina Jazz - Devilman (from Devilman)",
+          "url": "https://www.youtube.com/watch?v=Hg8l1ZAza3I"
+        }
+      ]
+    }
+  ]
+}
