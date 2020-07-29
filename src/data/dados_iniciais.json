@@ -1,183 +1,144 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Pintura",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo":"OIL PAINTING TIME-LAPSE || Marzia",
+          "url":"https://www.youtube.com/watch?v=KQiozC_QzjY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Na chuva, Cidade, Faca de Paleta, Escova, Pintura a óleo, Indo para casa, Raspador Dusan",
+          "url": "https://www.youtube.com/watch?v=gERxTluDWgo"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Girl with a Pearl Earring / Study / Paint with me #01",
+          "url": "https://www.youtube.com/watch?v=2NNL6Vu5sac"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Gouache Painting Secrets",
+          "url": "https://www.youtube.com/watch?v=0I7DnrfskI0&t=2s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Bob Ross - Island in the Wilderness (Season 29 Episode 1)",
+          "url": "https://www.youtube.com/watch?v=lLWEXRAnQd0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "City Beach Perth - Palette Knife | Brush Oil Painting - Ocean Coast Sea Dusan",
+          "url": "https://www.youtube.com/watch?v=zhwVlws44Cg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Paint with me #02 🌻 Holbein acryla gouache",
+          "url": "https://www.youtube.com/watch?v=3cvJ8_Dz3gc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Bob Boss - Montanha Mística (20ª Temporada Episódio 1)",
+          "url": "https://www.youtube.com/watch?v=VlucWfTUo1A"
+        },
+        {
+          "titulo": "Bob Ross - One Hour Special - The Grandeur of Summer",
+          "url": "https://www.youtube.com/watch?v=mT0RNrTDHkI"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Culinária",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Chessecake de Vidro com Morangos",
+          "url": "https://www.youtube.com/watch?v=2utgqRCAIr4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Torta de Chocolate Suprema!",
+          "url": "https://www.youtube.com/watch?v=7TcCIcE1hr8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Bolinhos de Baunilha",
+          "url": "https://www.youtube.com/watch?v=s6dhbtwDnek"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Bolinhos de Mate",
+          "url": "https://www.youtube.com/watch?v=HGAbnbb7GBA"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Pudim de Creme",
+          "url": "https://www.youtube.com/watch?v=U-JCF9BRgkE"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Restauração",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Antique Kitchen Scale Restoration - The Masterpiece",
+          "url": "https://www.youtube.com/watch?v=JXohCvh2omI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "A Restauração de Mãe Maria Narrada",
+          "url": "https://www.youtube.com/watch?v=ON7mhkSwTIk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Iconic French Wonder Lamp - Restoration",
+          "url": "https://www.youtube.com/watch?v=R2M83iah9fo"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "A Conservação de O Assassinato de Arquimedes",
+          "url": "https://www.youtube.com/watch?v=v1Mjc4zNfY4"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Ciência",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "What Was the Ancestor of Everything?",
+          "url": "https://www.youtube.com/watch?v=pk213XSSktQ"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O que é inteligência? Onde ela começa?",
+          "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "From the Cambrian Explosion to the Great Dying",
+          "url": "https://www.youtube.com/watch?v=RDQa0okkpf0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Como construir uma esfera de Dyson - A mega estrutura final",
+          "url": "https://www.youtube.com/watch?v=pP44EPBMb8A"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Música",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Platina Jazz - The Real Folk Blues (from Cowboy Bebop)",
+          "url": "https://www.youtube.com/watch?v=VRyzod7bNLQ&list=RDVRyzod7bNLQ&start_radio=1"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "lofi hip hop - brazil songs playlist",
+          "url": "https://www.youtube.com/watch?v=ZhstyJSNKME&t=289s"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "coffee shop radio // 24/7 lofi hip-hop beats",
+          "url": "https://www.youtube.com/watch?v=-5KAN9_CzSA"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "lofi hip hop radio - beats to relax/study to",
+          "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Platina Jazz - Devilman (from Devilman)",
+          "url": "https://www.youtube.com/watch?v=Hg8l1ZAza3I"
         }
       ]
     }
