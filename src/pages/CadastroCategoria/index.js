@@ -12,7 +12,7 @@ function CadastroCategoria() {
   const valoresIniciais = {
     nome: '',
     descriçao: '',
-    cor: '#000000',
+    cor: '#FF3D64',
   };
   const [values, setValues] = useState(valoresIniciais);
 
@@ -39,7 +39,8 @@ function CadastroCategoria() {
   }
   //   useeffect recebe dois parametros, o que vai acontecer e quando
   useEffect(() => {
-    const URL = 'http://localhost:8080/categorias';
+    const URL = window.location.hostname.includes('localhost') ? 
+    'http://localhost:8080/categorias' : 'https://satisflix.herokuapp.com'
     fetch(URL).then(async (response) => {
       const resposta = await response.json();
       setCategorias([
