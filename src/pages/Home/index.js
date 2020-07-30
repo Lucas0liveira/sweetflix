@@ -1,6 +1,5 @@
 import React from 'react';
 import BannerMain from '../../components/BannerMain'
-import Button from '../../components/Button'
 import Carousel from '../../components/Carousel'
 import Footer from '../../components/Footer'
 import Menu from '../../components/Menu'
