@@ -1,24 +1,62 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import BannerMain from '../../components/BannerMain'
 import Carousel from '../../components/Carousel'
-import Footer from '../../components/Footer'
-import Menu from '../../components/Menu'
-import dadosIniciais from '../../data/dados_iniciais.json'
+import TemplatePage from '../../components/TemplatePage'
+import categoriasRepository from '../../repositories/categorias'
 
 function Home() {
-  return (
-    <div>
+  const [dadosIniciais, setDadosIniciais] = useState([])
 
-      <Menu />
-      
-      <BannerMain 
-        videoTitle = {dadosIniciais.categorias[0].videos[0].titulo}
+  useEffect(() => {
+    categoriasRepository.getAllWithVideos()
+      .then((categoriasComVideos) => {
+        console.log(categoriasComVideos[0].videos);
+        setDadosIniciais(categoriasComVideos);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
+  }, []);
+  return (
+
+
+    <TemplatePage paddingAll={0}>
+
+      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
+      {dadosIniciais.map((categoria, indice) => {
+        if (indice === 0) {
+          return (
+            <div key={categoria.id}>
+              <BannerMain
+                videoTitle={dadosIniciais[0].videos[0].titulo}
+                url={dadosIniciais[0].videos[0].url}
+                videoDescription={"Speed-Painting de uma pintura a óleo impressionante"}
+              />
+
+              <Carousel
+                ignoreFirstVideo
+                category={dadosIniciais[0]}
+              />
+            </div>
+          )
+        }
+
+        return (
+          <Carousel
+            key={categoria.id}
+            category={categoria}
+          />
+        )
+      })}
+
+      {/* <BannerMain
+        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription = {"Speed-Painting de uma pintura a óleo impressionante"} 
+        videoDescription={"Speed-Painting de uma pintura a óleo impressionante"}
       />
 
       <Carousel
-      ignoreFirstVideo
+        ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
 
@@ -33,14 +71,12 @@ function Home() {
       <Carousel
         category={dadosIniciais.categorias[3]}
       />
-      
+
       <Carousel
         category={dadosIniciais.categorias[4]}
-      />
+      /> */}
 
-      <Footer/>
-
-    </div>
+    </TemplatePage>
   );
 }
 

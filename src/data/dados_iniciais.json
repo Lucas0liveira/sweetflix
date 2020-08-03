@@ -1,119 +1,168 @@
 {
   "categorias": [
     {
+      "id": 1,
       "titulo": "Pintura",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "videos": [
         {
+          "id": 1,
+          "categoriaID":1,
           "titulo":"OIL PAINTING TIME-LAPSE || Marzia",
           "url":"https://www.youtube.com/watch?v=KQiozC_QzjY"
         },
         {
+          "id": 2,
+          "categoriaID":1,
           "titulo": "Na chuva, Cidade, Faca de Paleta, Escova, Pintura a óleo, Indo para casa, Raspador Dusan",
           "url": "https://www.youtube.com/watch?v=gERxTluDWgo"
         },
         {
+          "id": 3,
+          "categoriaID":1,
           "titulo": "Girl with a Pearl Earring / Study / Paint with me #01",
           "url": "https://www.youtube.com/watch?v=2NNL6Vu5sac"
         },
         {
+          "id": 4,
+          "categoriaID":1,
           "titulo": "Gouache Painting Secrets",
           "url": "https://www.youtube.com/watch?v=0I7DnrfskI0&t=2s"
         },
         {
+          "id": 5,
+          "categoriaID":1,
           "titulo": "Bob Ross - Island in the Wilderness (Season 29 Episode 1)",
           "url": "https://www.youtube.com/watch?v=lLWEXRAnQd0"
         },
         {
+          "id": 6,
+          "categoriaID":1,
           "titulo": "City Beach Perth - Palette Knife | Brush Oil Painting - Ocean Coast Sea Dusan",
           "url": "https://www.youtube.com/watch?v=zhwVlws44Cg"
         },
         {
+          "id": 7,
+          "categoriaID":1,
           "titulo": "Paint with me #02 🌻 Holbein acryla gouache",
           "url": "https://www.youtube.com/watch?v=3cvJ8_Dz3gc"
         },
         {
+          "id": 8,
+          "categoriaID":1,
           "titulo": "Bob Boss - Montanha Mística (20ª Temporada Episódio 1)",
           "url": "https://www.youtube.com/watch?v=VlucWfTUo1A"
         },
         {
+          "id": 9,
+          "categoriaID":1,
           "titulo": "Bob Ross - One Hour Special - The Grandeur of Summer",
           "url": "https://www.youtube.com/watch?v=mT0RNrTDHkI"
         }        
       ]
     },
     {
+      "id": 2,
       "titulo": "Culinária",
       "cor": "#00C86F",
       "videos": [
         {
+          "id": 10,
+          "categoriaID":2,
           "titulo": "Chessecake de Vidro com Morangos",
           "url": "https://www.youtube.com/watch?v=2utgqRCAIr4"
         },
         {
+          "id": 11,
+          "categoriaID":2,
           "titulo": "Torta de Chocolate Suprema!",
           "url": "https://www.youtube.com/watch?v=7TcCIcE1hr8"
         },
         {
+          "id": 12,
+          "categoriaID":2,
           "titulo": "Bolinhos de Baunilha",
           "url": "https://www.youtube.com/watch?v=s6dhbtwDnek"
         },
         {
+          "id": 13,
+          "categoriaID":2,
           "titulo": "Bolinhos de Mate",
           "url": "https://www.youtube.com/watch?v=HGAbnbb7GBA"
         }, 
         {
+          "id": 14,
+          "categoriaID":2,
           "titulo": "Pudim de Creme",
           "url": "https://www.youtube.com/watch?v=U-JCF9BRgkE"
         }
       ]
     },
     {
+      "id": 3,
       "titulo": "Restauração",
       "cor": "#9cd33b",
       "videos": [
         {
+          "id": 15,
+          "categoriaID":3,
           "titulo": "Antique Kitchen Scale Restoration - The Masterpiece",
           "url": "https://www.youtube.com/watch?v=JXohCvh2omI"
         },
         {
+          "id": 16,
+          "categoriaID":3,
           "titulo": "A Restauração de Mãe Maria Narrada",
           "url": "https://www.youtube.com/watch?v=ON7mhkSwTIk"
         },
         {
+          "id": 17,
+          "categoriaID":3,
           "titulo": "Iconic French Wonder Lamp - Restoration",
           "url": "https://www.youtube.com/watch?v=R2M83iah9fo"
         },
         {
+          "id": 18,
+          "categoriaID":3,
           "titulo": "A Conservação de O Assassinato de Arquimedes",
           "url": "https://www.youtube.com/watch?v=v1Mjc4zNfY4"
         }
       ]
     },
     {
+      "id": 4,
       "titulo": "Ciência",
       "cor": "orange",
       "videos": [
         {
+          "id": 19,
+          "categoriaID":4,
           "titulo": "What Was the Ancestor of Everything?",
           "url": "https://www.youtube.com/watch?v=pk213XSSktQ"
         },
         {
+          "id": 20,
+          "categoriaID":4,
           "titulo": "O que é inteligência? Onde ela começa?",
           "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
         },
         {
+          "id": 21,
+          "categoriaID":4,
           "titulo": "From the Cambrian Explosion to the Great Dying",
           "url": "https://www.youtube.com/watch?v=RDQa0okkpf0"
         },
         {
+          "id": 22,
+          "categoriaID":4,
           "titulo": "Como construir uma esfera de Dyson - A mega estrutura final",
           "url": "https://www.youtube.com/watch?v=pP44EPBMb8A"
         }
       ]
     },
     {
+      "id": 5,
       "titulo": "Música",
       "cor": "#6b5be2",
       "link_extra": {
@@ -121,22 +170,32 @@
       },
       "videos": [
         {
+          "id": 23,
+          "categoriaID":5,
           "titulo": "Platina Jazz - The Real Folk Blues (from Cowboy Bebop)",
           "url": "https://www.youtube.com/watch?v=VRyzod7bNLQ&list=RDVRyzod7bNLQ&start_radio=1"
         },
         {
+          "id": 24,
+          "categoriaID":5,
           "titulo": "lofi hip hop - brazil songs playlist",
           "url": "https://www.youtube.com/watch?v=ZhstyJSNKME&t=289s"
         },
         {
+          "id": 25,
+          "categoriaID":5,
           "titulo": "coffee shop radio // 24/7 lofi hip-hop beats",
           "url": "https://www.youtube.com/watch?v=-5KAN9_CzSA"
         },
         {
+          "id": 26,
+          "categoriaID":5,
           "titulo": "lofi hip hop radio - beats to relax/study to",
           "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
         },
         {
+          "id": 27,
+          "categoriaID":5,
           "titulo": "Platina Jazz - Devilman (from Devilman)",
           "url": "https://www.youtube.com/watch?v=Hg8l1ZAza3I"
         }
